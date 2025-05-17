@@ -1,0 +1,13 @@
+﻿  13.2.cpp
+C:\Users\dimas\OneDrive\Рабочий стол\Информатика\2 Семестр\ООП\lab13\13.2\13.2\PriorityAdapter.h(51,29): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "13.2.cpp")
+      C:\Users\dimas\OneDrive\Рабочий стол\Информатика\2 Семестр\ООП\lab13\13.2\13.2\PriorityAdapter.h(51,29):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\dimas\OneDrive\Рабочий стол\Информатика\2 Семестр\ООП\lab13\13.2\13.2\13.2.cpp(14,27):
+          выполняется компиляция ссылки на экземпляр класс шаблон функции "PriorityAdapter<Pair>"
+          C:\Users\dimas\OneDrive\Рабочий стол\Информатика\2 Семестр\ООП\lab13\13.2\13.2\PriorityAdapter.h(42,10):
+          во время компиляции функции-члена класс шаблон "void PriorityAdapter<Pair>::add_average(void)"
+              C:\Users\dimas\OneDrive\Рабочий стол\Информатика\2 Семестр\ООП\lab13\13.2\13.2\13.2.cpp(20,20):
+              см. первую ссылку на "PriorityAdapter<Pair>::add_average" в "main"
+  
+  13.2.vcxproj -> C:\Users\dimas\OneDrive\Рабочий стол\Информатика\2 Семестр\ООП\lab13\13.2\x64\Debug\13.2.exe
